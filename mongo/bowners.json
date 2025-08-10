@@ -1,0 +1,32 @@
+[
+  {
+    "_id": { "$oid": "64fa1c2f1c9a1a001a1a1b01" },
+    "name": "Ivan Petrov",
+    "rang": { "$numberInt": "2" },
+    "department": { "$numberInt": "14" }
+  },
+  {
+    "_id": { "$oid": "64fa1c2f1c9a1a001a1a1b02" },
+    "name": "Anna Sidorova",
+    "rang": { "$numberInt": "1" },
+    "department": { "$numberInt": "3" }
+  },
+  {
+    "_id": { "$oid": "64fa1c2f1c9a1a001a1a1b03" },
+    "name": "Dmitry Ivanov",
+    "rang": { "$numberInt": "3" },
+    "department": { "$numberInt": "27" }
+  },
+  {
+    "_id": { "$oid": "64fa1c2f1c9a1a001a1a1b04" },
+    "name": "Elena Volkova",
+    "rang": { "$numberInt": "1" },
+    "department": { "$numberInt": "8" }
+  },
+  {
+    "_id": { "$oid": "64fa1c2f1c9a1a001a1a1b05" },
+    "name": "Sergey Nikolaev",
+    "rang": { "$numberInt": "2" },
+    "department": { "$numberInt": "42" }
+  }
+]

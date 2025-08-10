@@ -1,0 +1,36 @@
+<table border="1" cellpadding="5" cellspacing="0">
+  <thead>
+    <tr>
+      <th>courier_id</th>
+      <th>orders_count</th>
+      <th>courier_rank</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>492</td>
+      <td>54</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>708</td>
+      <td>53</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>52</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>252</td>
+      <td>52</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>291</td>
+      <td>52</td>
+      <td>5</td>
+    </tr>
+  </tbody>
+</table>

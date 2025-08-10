@@ -1,0 +1,27 @@
+db.owners.insertMany([
+  {
+    name: "Ivan Petrov",
+    rang: 2,
+    department: 14
+  },
+  {
+    name: "Anna Sidorova",
+    rang: 1,
+    department: 3
+  },
+  {
+    name: "Dmitry Ivanov",
+    rang: 3,
+    department: 27
+  },
+  {
+    name: "Elena Volkova",
+    rang: 1,
+    department: 8
+  },
+  {
+    name: "Sergey Nikolaev",
+    rang: 2,
+    department: 42
+  }
+]);

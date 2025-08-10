@@ -1,0 +1,48 @@
+db.pumps.insertMany([
+  {
+    name: "Pump Alpha",
+    type: "Centrifugal",
+    size: 120,
+    parts: [
+      { id: "p1", part_type: "Rotor", part_name: "Rotor-X" },
+      { id: "p2", part_type: "Seal", part_name: "Seal-100" }
+    ],
+    status: true
+  },
+  {
+    name: "Pump Beta",
+    type: "Diaphragm",
+    size: 80,
+    parts: [
+      { id: "p3", part_type: "Valve", part_name: "Valve-A" }
+    ],
+    status: false
+  },
+  {
+    name: "Pump Gamma",
+    type: "Gear",
+    size: 95,
+    parts: [
+      { id: "p4", part_type: "Gear", part_name: "Gear-Z" },
+      { id: "p5", part_type: "Housing", part_name: "Housing-X" }
+    ],
+    status: true
+  },
+  {
+    name: "Pump Delta",
+    type: "Peristaltic",
+    size: 60,
+    parts: [],
+    status: false
+  },
+  {
+    name: "Pump Epsilon",
+    type: "Centrifugal",
+    size: 110,
+    parts: [
+      { id: "p6", part_type: "Rotor", part_name: "Rotor-Y" },
+      { id: "p7", part_type: "Casing", part_name: "Casing-200" }
+    ],
+    status: true
+  }
+]);

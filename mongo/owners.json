@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "64fa1c2f1c9a1a001a1a1b01",
+    "name": "Ivan Petrov",
+    "rang": 2,
+    "department": 14
+  },
+  {
+    "_id": "64fa1c2f1c9a1a001a1a1b02",
+    "name": "Anna Sidorova",
+    "rang": 1,
+    "department": 3
+  },
+  {
+    "_id": "64fa1c2f1c9a1a001a1a1b03",
+    "name": "Dmitry Ivanov",
+    "rang": 3,
+    "department": 27
+  },
+  {
+    "_id": "64fa1c2f1c9a1a001a1a1b04",
+    "name": "Elena Volkova",
+    "rang": 1,
+    "department": 8
+  },
+  {
+    "_id": "64fa1c2f1c9a1a001a1a1b05",
+    "name": "Sergey Nikolaev",
+    "rang": 2,
+    "department": 42
+  }
+]
