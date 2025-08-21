@@ -15,6 +15,9 @@ SQL запрос собирающий информацию о топ 10% кур�
 - [Запрос](https://github.com/Therealsergios/database-requests/blob/main/postgre/request.sql)
 - [Таблица](https://github.com/Therealsergios/database-requests/blob/main/postgre/table.md)
 
+Нормализация таблицы до 3NF
+-[Описание](https://github.com/Therealsergios/database-requests/blob/main/normalization%203NF/description.md)
+
 ## [Mongo DB](https://github.com/Therealsergios/database-requests/tree/main/mongo)
 
 InsertMany запрос, добавление данных по насосам и ответственным по подразделениям в Mongo DB
